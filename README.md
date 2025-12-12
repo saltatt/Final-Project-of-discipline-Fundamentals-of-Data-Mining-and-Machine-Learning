@@ -21,7 +21,7 @@
 ## Датасет
 
 Использован датасет с Kaggle:
-[IMDb Video Games Dataset](https://www.kaggle.com/datasets/lorentzyeung/imdb-video-games-dataset)
+[IMDb Video Games Dataset] https://www.kaggle.com/datasets/lorentzyeung/imdb-video-games-dataset
 
 Количество строк: **14682**
 
