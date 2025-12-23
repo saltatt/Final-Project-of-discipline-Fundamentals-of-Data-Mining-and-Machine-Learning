@@ -38,8 +38,7 @@
 
 ## Запуск проекта в Google Colab
 
-1. Откройте Notebook в Colab:
-   [https://colab.research.google.com/drive/1AasfEoZ9XuyUe95TFJgGBxnr40dwAqD](https://colab.research.google.com/drive/1AasfEoZ9XuyUe95TFJgGBxnr40dwAqD)
+1. Откройте Notebook в Colab: https://colab.research.google.com/drive/1AasfEoZ9XuyUe95TFJgGBxnr40dwAqD_?usp=sharing
 2. При необходимости установите зависимости:
 
 ```python
